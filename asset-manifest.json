@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gowtham25/weather-app/static/css/main.c9cb800e.chunk.css",
+    "main.js": "/gowtham25/weather-app/static/js/main.f158fa6d.chunk.js",
+    "main.js.map": "/gowtham25/weather-app/static/js/main.f158fa6d.chunk.js.map",
+    "runtime-main.js": "/gowtham25/weather-app/static/js/runtime-main.14193690.js",
+    "runtime-main.js.map": "/gowtham25/weather-app/static/js/runtime-main.14193690.js.map",
+    "static/js/2.f5ee4ba4.chunk.js": "/gowtham25/weather-app/static/js/2.f5ee4ba4.chunk.js",
+    "static/js/2.f5ee4ba4.chunk.js.map": "/gowtham25/weather-app/static/js/2.f5ee4ba4.chunk.js.map",
+    "index.html": "/gowtham25/weather-app/index.html",
+    "precache-manifest.00d99259a91b7dfd7472a926ad67044f.js": "/gowtham25/weather-app/precache-manifest.00d99259a91b7dfd7472a926ad67044f.js",
+    "service-worker.js": "/gowtham25/weather-app/service-worker.js",
+    "static/css/main.c9cb800e.chunk.css.map": "/gowtham25/weather-app/static/css/main.c9cb800e.chunk.css.map",
+    "static/js/2.f5ee4ba4.chunk.js.LICENSE.txt": "/gowtham25/weather-app/static/js/2.f5ee4ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14193690.js",
+    "static/js/2.f5ee4ba4.chunk.js",
+    "static/css/main.c9cb800e.chunk.css",
+    "static/js/main.f158fa6d.chunk.js"
+  ]
+}
